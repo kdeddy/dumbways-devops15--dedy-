@@ -1,0 +1,12 @@
+# Task Day 2
+
+## 1.	Perbedaan IP Private dan IP Public
+-	IP Public merupakan alamat IP yang digunakan dalam jaringan global Internet. Yang biasanya diberikan oleh penyedia layanan internet (ISP).
+-	IP Private merupakan alamat IP yang digunakan dalam jaringan local dan tidak bisa diakses dari jaringan internet secara langsung.
+
+## 2.	Jelaskan perbedaan Client-to-server & Peer-to-peer
+-	Client Server adalah komputer yang menyediakan fasilitas bagi komputer-komputer lain di dalam jaringan dan client adalah komputer-komputer yang menerima atau menggunakan fasilitas yang disediakan oleh server. Server di jaringan tipe client-server disebut dengan Dedicated Server karena murni berperan sebagai penyedia fasilitas untuk workstation dan server tersebut tidak dapat berperan sebagai workstation.
+-	Peer To Peer merupakan non-dedicated server, hal ini disebabkan karen server tidak berperan sebagai server murni melainkan sekaligus dapat berperan sebagai workstation.
+
+## 3.	Jalankan nginx di server
+Langkah pertama yaitu menjalankan command sudo apt install nginx, ini berfungsi untuk melakukan proses instalasi nginx pada ubuntu server.
