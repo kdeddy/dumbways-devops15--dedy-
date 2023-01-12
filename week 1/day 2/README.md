@@ -1,4 +1,4 @@
-# Task Day 1
+# Task Day 2
 
 ## 1.	Perbedaan IP Private dan IP Public
 -	IP Public merupakan alamat IP yang digunakan dalam jaringan global Internet. Yang biasanya diberikan oleh penyedia layanan internet (ISP).
