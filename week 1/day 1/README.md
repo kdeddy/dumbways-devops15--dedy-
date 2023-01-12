@@ -66,6 +66,7 @@ Spesifikasi : 2 CPU, 2 GB RAM & 20GB Storage, Setup IP Static, Install OpenSSH S
 21.	Centang untuk install OpenSSH Server. Lalu pilih Done.
 ![image](https://user-images.githubusercontent.com/62181923/212114640-5ac42736-dfcb-4a64-a8f3-adc70e1011c1.png)
 22.	Tahapan optional, jika ingin menginstal aplikasi yang diinginkan dapat mencentang aplikasi tersebut, jika tidak dapat langsung memilih Done.
+
 ![image](https://user-images.githubusercontent.com/62181923/212114682-f84850f5-eb16-417c-85ed-32de3021112c.png)
 23.	Tunggu hingga proses instalasi selesai.
 ![image](https://user-images.githubusercontent.com/62181923/212114744-d42b32f3-8dee-45ac-a080-520ba1c2c4e1.png)
