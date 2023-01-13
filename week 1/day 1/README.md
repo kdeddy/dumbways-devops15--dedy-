@@ -48,8 +48,11 @@ Spesifikasi : 2 CPU, 2 GB RAM & 20GB Storage, Setup IP Static, Install OpenSSH S
 8.	Masukan maximum disk size yaitu 20 GB, serta pilih Split virtual disk into multiple files.
 
 ![image](https://user-images.githubusercontent.com/62181923/212113349-f0af56fc-8186-4e23-aca1-851c787edd84.png)
+
 9.	Pilih Customize Hardware, 
- ![image](https://user-images.githubusercontent.com/62181923/212113490-09b6d5a8-32f3-446c-8ace-3526698a9d8e.png)
+
+![image](https://user-images.githubusercontent.com/62181923/212113490-09b6d5a8-32f3-446c-8ace-3526698a9d8e.png)
+
 10.	Rubah memory yang digunakan menjadi 2GB, Processor rubah menjadi 2 (opsional tergantung dari spek laptop/computer yang dipakai dan juga kebutuhan) dan Network Adapter rubah menjadi Bridge dan klik Configure Adapter, pilih Inter(R) Wi-Fi(sesuaikan dengan adapter Wi-Fi yang kalian gunakan)
 
 ![image](https://user-images.githubusercontent.com/62181923/212113519-388f32ac-ff67-4c57-9986-c0cc31f932da.png)
@@ -67,6 +70,7 @@ Spesifikasi : 2 CPU, 2 GB RAM & 20GB Storage, Setup IP Static, Install OpenSSH S
 ![image](https://user-images.githubusercontent.com/62181923/212113688-7136e451-3aec-4c8f-8a71-5cb5f65a936d.png)
 
 14.Klik ens33 dan edit IPv4 lalu Enter. Dan pilih Manual seperti gambar dibawah
+
 ![image](https://user-images.githubusercontent.com/62181923/212114113-aa5dbb3c-f5a4-4e3b-8e1b-46be1bc9f78d.png)
 ![image](https://user-images.githubusercontent.com/62181923/212114129-bcc1a71f-7e37-416e-80a7-9abc4ec1c9c3.png)
 ![image](https://user-images.githubusercontent.com/62181923/212114150-2f6826e1-d34b-4151-aa75-a72af1cf5f7e.png)
@@ -91,7 +95,9 @@ Spesifikasi : 2 CPU, 2 GB RAM & 20GB Storage, Setup IP Static, Install OpenSSH S
 19.	Pastikan Disk Patition yang dibuat sudah sesuai yang diinginkan. Lalu pilih Done. Dan Continue
 
 ![image](https://user-images.githubusercontent.com/62181923/212114548-0271e66f-c41b-44f4-abc2-58b9976fbbdd.png)
+
 20.	Masukan nama, nama server, dan yang lainnya. Lalu pilih Done.
+
 ![image](https://user-images.githubusercontent.com/62181923/212114600-dd4574e4-2b9b-44ad-a8ae-e9164c84ffa5.png)
 21.	Centang untuk install OpenSSH Server. Lalu pilih Done.
 
