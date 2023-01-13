@@ -81,6 +81,7 @@ Spesifikasi : 2 CPU, 2 GB RAM & 20GB Storage, Setup IP Static, Install OpenSSH S
 ![image](https://user-images.githubusercontent.com/62181923/212114230-1c77896c-56b2-4e97-9e3f-06390189aaab.png)
 
 16.	Proses sebelumnya hanya klik Done tanpa merubah apapun. Hingga muncul tampilan seperti dibawah ini. Lalu pilih Custom storage layout dan pilih Done.
+
 ![image](https://user-images.githubusercontent.com/62181923/212114337-2f8b76e6-218c-4685-a12e-db2fb5e6d4c2.png)
 
 17.	Pilih Free Space dan pilih Add GPT Partition. Masukan 2G dengan memilih format swap, lalu pilih Create.
